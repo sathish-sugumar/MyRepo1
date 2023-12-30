@@ -1,0 +1,1 @@
+'connecting the new repo form local to remote through "git remote add origin "link of newrepo'
